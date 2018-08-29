@@ -1,5 +1,5 @@
 ## cosSim
-> 基于TF-IDF和余弦定理计算文本相似度
+基于TF-IDF和余弦定理计算文本相似度
 ### 使用
 ```
 python3 main.py
